@@ -1,2 +1,0 @@
-function Graphical_analysis()
-
