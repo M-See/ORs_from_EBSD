@@ -3,6 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Mattis
     given-names: Seehaus
+    doi: 10.5281/zenodo.7326903 
 title: Mattis-Seehaus/ORs_from_EBSD: ORs_from_EBSD_v0.9.1
 version: v0.9.1
 date-released: 2022-11-16
