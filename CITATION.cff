@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Mattis
+    given-names: Seehaus
+title: Mattis-Seehaus/ORs_from_EBSD: ORs_from_EBSD_v0.9.1
+version: v0.9.1
+date-released: 2022-11-16
